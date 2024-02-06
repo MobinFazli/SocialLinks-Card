@@ -5,6 +5,6 @@
 
 <img width="1512" alt="P2" src="https://github.com/MobinFazli/SocialLinks-Card/assets/126828525/541b356e-1ab1-4b0b-8a63-807b85e70e19">
 
-<div style="text-align: center; justify-content: center">
+<div style="display: flex; justify-content: center;">
   <img width="563" alt="P3" src="https://github.com/MobinFazli/SocialLinks-Card/assets/126828525/da174835-1e41-4a40-9cb7-669f12bc2e71">
 </div>
