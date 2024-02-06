@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient(to bottom, #0b0b0b, #29182e, #56183f, #87063b, #ae0d22);
+}
+
+.container {
+    text-align: center;
+    background-color: skyblue;
+    padding: 25px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    background-image: linear-gradient(to bottom, #0b0b0b, #29182e, #56183f, #87063b, #ae0d22);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+}
+
+.profileImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 0px;
+    border: 2px solid red;
+}
+
+.userInfo h1, h4{
+    margin: 5px;
+}
+
+.userInfo h4 {
+    color: yellow;
+}
+
+.userInfo p {
+    margin: 15px;
+    font-size: small;
+    font-weight: bolder;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    text-decoration: none;
+    list-style: none;
+}
+
+button {
+    background-color: black;
+    border: none;
+    padding: 10px 20px; 
+    margin-bottom: 10px; 
+    border-radius: 5px;
+    cursor: pointer;
+    width: 250px;
+}
+  
+button a {
+    text-decoration: none;
+    color: white;
+    font-weight: bolder;
+}
+  
+button:hover {
+    background-color: red;
+}
