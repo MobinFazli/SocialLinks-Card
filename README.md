@@ -1,5 +1,5 @@
 # SocialLinks-Card
-**A Sleek And Responsive Social Links Card For Personal Profiles**
+> **A Sleek And Responsive Social Links Card For Personal Profiles**
 
 ## [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-blue?style=for-the-badge&logo=appveyor)](https://mobinfazli.github.io/SocialLinks-Card/)
 
