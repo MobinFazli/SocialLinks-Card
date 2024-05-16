@@ -1,11 +1,9 @@
-# 📱 Social Links Card 
+# Social Links Card 📱
 > ### A Sleek And Responsive Social Links Card For Personal Profiles 🔥
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 
 > [![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Here-blue?style=for-the-badge&logo=appveyor)](https://mobinfazli.github.io/SocialLinks-Card/)
-
-> ![alt text](Demo/DesktopView.png)
 
 > ![alt text](Demo/MacbookView.png)
 
